@@ -9,3 +9,5 @@ https://1drv.ms/p/s!AuDk8Yb7yD5OgQJntDsVkYEUuNF
 https://github.com/Ribamar074/log_inf./blob/main/Qtde%20alunos%20Informatica%2014-03-25.xlsx
 ![image](https://github.com/user-attachments/assets/9d38ce09-ac90-4ffb-868c-7a18f1c87376)
 
+![image](https://github.com/user-attachments/assets/30c13acf-9f9b-4bb4-bbef-d93cad83bda4)
+
