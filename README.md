@@ -15,3 +15,5 @@ https://github.com/Ribamar074/log_inf./blob/main/Qtde%20alunos%20Informatica%201
 
 ![image](https://github.com/user-attachments/assets/2f3534a6-a8f1-4de9-bb09-4bc0b6021846)
 
+![image](https://github.com/user-attachments/assets/358fed8f-8f77-4c32-8e55-e11aa4aac127)
+
