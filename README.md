@@ -13,7 +13,6 @@ https://github.com/Ribamar074/log_inf./blob/main/Qtde%20alunos%20Informatica%201
 
 ![image](https://github.com/user-attachments/assets/19652410-9131-4837-bb6c-26d67f1efdcb)
 
-## terceira atividade
+### terceira atividade
 https://fatecspgov-my.sharepoint.com/personal/douglas_nogueira4_fatec_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdouglas%5Fnogueira4%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2Ftarefa%203%2Epbix&parent=%2Fpersonal%2Fdouglas%5Fnogueira4%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments]
 ![Uploading image.png…]()
-
