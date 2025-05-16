@@ -19,3 +19,5 @@ https://fatecspgov-my.sharepoint.com/personal/douglas_nogueira4_fatec_sp_gov_br/
 ![image](https://github.com/user-attachments/assets/985b047c-ca8c-4e4a-a239-97f79edaef6e)
 
 ![image](https://github.com/user-attachments/assets/969a59ec-ccb2-402c-9d1b-7072ab23de0a)
+
+https://colab.research.google.com/drive/1zSU12M_CsLVaIVPGKpVBVt7vdqAuqLt0
