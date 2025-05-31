@@ -31,3 +31,6 @@ https://colab.research.google.com/drive/1zSU12M_CsLVaIVPGKpVBVt7vdqAuqLt0
 
 ![image](https://github.com/user-attachments/assets/60c36f9c-2f8b-4f39-a422-e782a6a88f84)
 O ponto de equilibrio acontece quando se atinge a venda de 6.000 sandálias
+
+![image](https://github.com/user-attachments/assets/0973ff77-fe0d-4853-bd8b-96112e193d3b)
+
