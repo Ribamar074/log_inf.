@@ -23,6 +23,7 @@ https://fatecspgov-my.sharepoint.com/personal/douglas_nogueira4_fatec_sp_gov_br/
 https://colab.research.google.com/drive/1zSU12M_CsLVaIVPGKpVBVt7vdqAuqLt0
 ![image](https://github.com/user-attachments/assets/1b9ac872-2320-46aa-8f74-0564ca84634b)
 
+
 ![image](https://github.com/user-attachments/assets/31f692b0-970a-497f-8234-7198dde4f860)
 
 ![image](https://github.com/user-attachments/assets/11bbd8f6-7c6b-46c4-8f4d-3916a4c52002)
@@ -42,3 +43,6 @@ Desenvolvimento de aplicativo
 ![image](https://github.com/user-attachments/assets/b0d02d9c-aafe-49e4-8f41-a7cc028cb34b)
 
 https://fatecspgov-my.sharepoint.com/:v:/g/personal/ribamar_barros_fatec_sp_gov_br/Ecd7BUbOU4lGpB2BvuxW_VABDI2dyny_0jh_c4CuxyFceA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=G1BTjL
+
+https://github.com/user-attachments/assets/f8ae00be-ce7f-47c5-b449-a900fd23a0f4
+
