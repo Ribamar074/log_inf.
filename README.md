@@ -41,4 +41,4 @@ O ponto de equilibrio acontece quando se atinge a venda de 6.000 sandálias
 Desenvolvimento de aplicativo
 ![image](https://github.com/user-attachments/assets/b0d02d9c-aafe-49e4-8f41-a7cc028cb34b)
 
-
+https://fatecspgov-my.sharepoint.com/:v:/g/personal/ribamar_barros_fatec_sp_gov_br/Ecd7BUbOU4lGpB2BvuxW_VABDI2dyny_0jh_c4CuxyFceA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=G1BTjL
