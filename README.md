@@ -48,4 +48,9 @@ https://github.com/user-attachments/assets/f8ae00be-ce7f-47c5-b449-a900fd23a0f4
 
 ![image](https://github.com/user-attachments/assets/3d156f89-7c65-4229-ad41-d7a91e36ce0a)
 
+Trabalho de final do primeiro semestre
+
+
+https://github.com/user-attachments/assets/e1547471-3f1a-4759-8af7-9ee73ee40cf9
+
 
