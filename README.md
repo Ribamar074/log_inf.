@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/f8ae00be-ce7f-47c5-b449-a900fd23a0f4
 
 Trabalho de final do primeiro semestre
 
-
 https://github.com/user-attachments/assets/e1547471-3f1a-4759-8af7-9ee73ee40cf9
-
-
+![image](https://github.com/user-attachments/assets/7d3ebcd2-30b2-4680-b798-91205580b195)
+![image](https://github.com/user-attachments/assets/f0287d6d-2276-4770-89e7-2dc213e0e122)
+![image](https://github.com/user-attachments/assets/07f739b0-b1cf-433d-9188-59a97807130c)
+![image](https://github.com/user-attachments/assets/83d4b5c5-fe4e-4d24-954e-5c5c5e8ad129)
