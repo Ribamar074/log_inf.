@@ -56,10 +56,9 @@ https://github.com/user-attachments/assets/e1547471-3f1a-4759-8af7-9ee73ee40cf9
 ![image](https://github.com/user-attachments/assets/07f739b0-b1cf-433d-9188-59a97807130c)
 ![image](https://github.com/user-attachments/assets/83d4b5c5-fe4e-4d24-954e-5c5c5e8ad129)
 
+ATIVIDADE 1 - API 1°/2026
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/560a9610-ca57-4bdc-864b-d6d65e00ecb5" />
 https://colab.research.google.com/drive/1qB_0HDZzhpT5f8iFrHQ7DN1sQyjlaz6F
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/de4571ea-2395-4580-83ea-3d77aedab972" />
 https://colab.research.google.com/drive/12TdQlmqn4HQ0A8G7d1dOUZrc5SEUInjj
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0b5f1360-7418-46a7-a7eb-76d5e32f019a" />
